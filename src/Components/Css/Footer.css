@@ -1,0 +1,36 @@
+.footer-container{
+    background-color: black;
+    color: white;
+    text-align: left;
+   
+}
+.footer-top{
+    padding-top: 40px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.social{
+    width: 40px;
+    padding: 5px;
+    padding-top: 30px;
+}
+.footer-ul{
+    padding-bottom: 40px;
+    list-style: none;
+    cursor: pointer;
+    
+}
+.liname{
+    padding: 5px;
+}
+.div-second{
+    display: flex;
+    justify-content: space-between;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+.hname{
+    padding-left: 45px;
+}

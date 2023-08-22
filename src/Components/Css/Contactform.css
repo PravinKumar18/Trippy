@@ -1,0 +1,23 @@
+.img8{
+    width: 100%;
+}
+
+.form-container{
+    margin: 2px;
+    margin-bottom: 80px;
+}
+.input{
+    width: 400px;
+    height: 40px;
+    margin: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+.inputarea{
+    width: 400px;
+    height: 80px;
+    margin: 10px;
+    padding-left: 10px;
+    border-radius: 5px;
+}
+

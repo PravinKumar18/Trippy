@@ -1,0 +1,18 @@
+.mumbai{
+    width: 400px;
+}
+.img-div{
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+}
+.destiny-top{
+    margin-top: 110px;
+    /* padding-top: 100px; */
+}
+
+.pppp{
+    font-size: medium;
+    font-weight: bold;
+    border-bottom: 1px solid black;
+}
